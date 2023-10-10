@@ -1,0 +1,7 @@
+.vscode
+/.history 
+.env
+*.csv
+*.sh
+*.parquet
+*.json
